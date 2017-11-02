@@ -1,0 +1,2 @@
+# blog
+AEDIO Japan blog
